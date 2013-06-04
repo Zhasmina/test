@@ -1,1 +1,7 @@
 c:\users\3a33\documents\visual studio 2012\Projects\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\git-test\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\git-test\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\git-test\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\git-test\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\git-test\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\git-test\TestApp\TestApp\obj\Debug\TestApp.pdb
